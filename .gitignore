@@ -1,0 +1,14 @@
+node_modules/
+.env
+logs/
+*.log
+temp/
+tmp/
+dist/
+build/
+
+## specific files related to development tools
+.vscode/
+.DS_Store
+npm-debug.log
+yarn-error.log

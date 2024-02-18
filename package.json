@@ -1,0 +1,29 @@
+{
+  "name": "fdtome-index",
+  "version": "1.0.0",
+  "description": "FDtome-index is an interactive web application designed to catalog and provide access to a curated collection of media with a focus on compelling narratives where female characters play a central role in the storyline. This project providing a user-friendly platform where users can easily explore and discover titles based on specific criteria. The application features a dynamic filtering system that allows users to search for titles using various tags and attributes, such as published year, type of media, character traits of the female and male leads, and miscellaneous genre-related elements. This project is built using Node.js and Express for the backend, with MongoDB serving as the database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "javascript",
+    "web-development",
+    "filtering",
+    "search",
+    "tags",
+    "book-database",
+    "fiction",
+    "database",
+    "otome",
+    "manhwa",
+    "kdrama"
+  ],
+  "author": "Celine Wang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
