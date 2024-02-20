@@ -24,6 +24,8 @@
   "author": "Celine Wang",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
   }
 }
