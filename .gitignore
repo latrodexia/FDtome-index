@@ -7,9 +7,10 @@ tmp/
 dist/
 build/
 
-## specific files related to development tools
+## specific files related to development tools, or private files
 .vscode/
 .DS_Store
 npm-debug.log
 yarn-error.log
 db/data.json
+otomedb-frontend/src/traits.json

@@ -1,0 +1,40 @@
+.filter-section {
+    margin-bottom: 20px;
+    color: white;
+  }
+
+.filter-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Adjust the space between buttons */
+  }
+  
+.filter-option {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 20px; /* Rounded corners */
+    background-color: #7b4f91; /* Adjust the color based on your design */
+    color: white;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+  }
+  
+.filter-option:hover {
+    background-color: #6a3f7b; /* Slightly darker on hover */
+  }
+
+.filter-option.active {
+    background-color: #5e3470; /* Even darker for active state */
+  }
+  
+.apply-filters-btn {
+    padding: 10px 20px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: #4c2a60; /* Adjust the color based on your design */
+    color: white;
+    cursor: pointer;
+  }
+  
